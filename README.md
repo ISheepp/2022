@@ -1,6 +1,6 @@
-## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
-[RSS Feed](https://raw.githubusercontent.com/linziyang1106/2022/master/feed.xml)
+## ISheep's amazing 2022
+To record 2022 using issues and GitHub Actions
+[RSS Feed](https://raw.githubusercontent.com/linziyang1106/2022/main/feed.xml)
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
