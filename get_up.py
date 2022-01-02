@@ -80,6 +80,7 @@ def main(github_token, repo_name, weather_message):
         #         },
         #     )
     else:
+        issue.create_comment(body)
         print("You wake up late")
 
 
