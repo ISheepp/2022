@@ -24,8 +24,6 @@ To record 2022 using issues and GitHub Actions
 - [RESUME](https://github.com/linziyang1106/2022/issues/4)--2021-12-31
 ## Solidity
 - [SMART_CONTEACT](https://github.com/linziyang1106/2022/issues/7)--2021-12-31
-## todo
-- [TODO](https://github.com/linziyang1106/2022/issues/1)--2021-12-31
 ## web3
 - [WEB3.0](https://github.com/linziyang1106/2022/issues/6)--2021-12-31
 ## TODO
