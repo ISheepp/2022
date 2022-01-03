@@ -75,6 +75,7 @@ def make_get_up_message():
 
 
 def main(github_token, repo_name, weather_message):
+    print("天气信息： " + weather_message)
     u = login(github_token)
     repo = u.get_repo(repo_name)
     issue = repo.get_issue(GET_UP_ISSUE_NUMBER)
