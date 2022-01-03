@@ -15,7 +15,7 @@ TIMEZONE = "Asia/Shanghai"
 
 # 晚起模板
 GET_UP_LATE_TEMPLATE = (
-    "今天的起床时间是--{get_up_time}.\r\n\r\n 睡懒觉！\r\n\r\n 今天的一句话:\r\n {sentence} \r\n From:{from}"
+    "今天的起床时间是--{get_up_time}.\r\n\r\n 睡懒觉！\r\n\r\n 今天的一句话:\r\n {sentence} \r\n From:{from_who}"
 )
 
 
@@ -62,6 +62,7 @@ def get_today_get_up_status(issue):
 
 def make_get_up_message():
     sentence = get_one_sentence()
+    from_who = get_one_sentence_from()
     now = pendulum.now(TIMEZONE)
     # 4 - 8 means early for me
     is_get_up_early = 4 <= now.hour <= 8
@@ -69,7 +70,7 @@ def make_get_up_message():
     if is_get_up_early:
         body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
     else:
-        body = GET_UP_LATE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
+        body = GET_UP_LATE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence, from_who=from_who)
     return body, is_get_up_early
 
 
