@@ -7,7 +7,7 @@ from github import Github
 # 14 for test 12 real get up
 GET_UP_ISSUE_NUMBER = 12
 GET_UP_MESSAGE_TEMPLATE = (
-    "今天的起床时间是--{get_up_time}.\r\n\r\n 天纵英才，晨勃还在\r\n\r\n 今天的一句话:\r\n {sentence}"
+    "今天的起床时间是--{get_up_time}.\r\n\r\n 天纵英才，晨勃还在\r\n\r\n >  {sentence}"
 )
 SENTENCE_API = "https://v1.hitokoto.cn/?c=k"
 DEFAULT_SENTENCE = "赏花归去马如飞\r\n去马如飞酒力微\r\n酒力微醒时已暮\r\n醒时已暮赏花归\r\n"
@@ -15,7 +15,7 @@ TIMEZONE = "Asia/Shanghai"
 
 # 晚起模板
 GET_UP_LATE_TEMPLATE = (
-    "今天的起床时间是--{get_up_time}.\r\n\r\n 睡懒觉！\r\n\r\n 今天的一句话:\r\n {sentence} \r\n From:{from_who}"
+    "今天的起床时间是--{get_up_time}.\r\n\r\n 睡懒觉！\r\n\r\n >  {sentence} \r\n From: {from_who}"
 )
 
 
@@ -40,7 +40,7 @@ def get_one_sentence_from():
     try:
         r = requests.get(SENTENCE_API)
         if r.ok:
-            return r.json().get("from", "unknown") + "------" + r.json().get("from_who", "unknown")
+            return r.json().get("from", "unknown") + "-----" + r.json().get("from_who", "unknown")
         return "unknown"
     except:
         print("get SENTENCE_API wrong")
