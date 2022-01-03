@@ -9,3 +9,8 @@
 ---
 
 [页面设计](https://www.checklist.design/)
+
+---
+
+MIRROR
+1. [为什么WEB3革命不会发生在CHINA](https://mirror.xyz/0x0E58bB9795a9D0F065e3a8Cc2aed2A63D6977d8A/fsrtEeVftvNA4OGRTrQ7aZqqPWQ09foExSRDqeNxETc)
