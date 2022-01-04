@@ -76,18 +76,18 @@ def make_get_up_message(today_feeling):
     if is_get_up_early:
         # 如果未输入任何心情，则使用默认心情
         if(len(today_feeling) == 0):
-            early_felling = DEAFULT_EARLY_TODAY_FEELING
-            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=early_felling, sentence=sentence, from_who=from_who)
+            early_feeling = DEAFULT_EARLY_TODAY_FEELING
+            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, today_feeling=early_feeling, sentence=sentence, from_who=from_who)
         else:
-            early_felling = today_feeling
-            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=early_felling, sentence=sentence, from_who=from_who)
+            early_feeling = today_feeling
+            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, today_feeling=early_feeling, sentence=sentence, from_who=from_who)
     else:
         if(len(today_feeling) == 0):
-            late_felling = DEAFULT_EARLY_TODAY_FEELING
-            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=late_felling, sentence=sentence, from_who=from_who)
+            late_feeling = DEAFULT_EARLY_TODAY_FEELING
+            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, today_feeling=late_feeling, sentence=sentence, from_who=from_who)
         else:
-            late_felling = today_feeling
-            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=late_felling, sentence=sentence, from_who=from_who)
+            late_feeling = today_feeling
+            body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, today_feeling=late_feeling, sentence=sentence, from_who=from_who)
     return body, is_get_up_early
 
 
