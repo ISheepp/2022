@@ -7,7 +7,7 @@ from github import Github
 # 14 for test 12 real get up
 GET_UP_ISSUE_NUMBER = 12
 GET_UP_MESSAGE_TEMPLATE = (
-    "今天的起床时间是--{get_up_time}.\r\n\r\n 天纵英才，晨勃还在\r\n\r\n >  {sentence}"
+    "今天的起床时间是--{get_up_time}.\r\n\r\n 天纵英才，晨勃还在\r\n\r\n >  {sentence} \r\n From: {from_who}"
 )
 SENTENCE_API = "https://v1.hitokoto.cn/?c=k"
 DEFAULT_SENTENCE = "赏花归去马如飞\r\n去马如飞酒力微\r\n酒力微醒时已暮\r\n醒时已暮赏花归\r\n"
@@ -68,7 +68,7 @@ def make_get_up_message():
     is_get_up_early = 4 <= now.hour <= 8
     get_up_time = now.to_datetime_string()
     if is_get_up_early:
-        body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
+        body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence, from_who=from_who)
     else:
         body = GET_UP_LATE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence, from_who=from_who)
     return body, is_get_up_early
