@@ -83,7 +83,7 @@ def make_get_up_message(today_feeling):
             body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, today_feeling=early_feeling, sentence=sentence, from_who=from_who)
     else:
         if(len(today_feeling) == 0):
-            late_feeling = DEAFULT_EARLY_TODAY_FEELING
+            late_feeling = DEAFULT_LATE_TODAY_FEELING
             body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, today_feeling=late_feeling, sentence=sentence, from_who=from_who)
         else:
             late_feeling = today_feeling
