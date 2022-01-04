@@ -66,7 +66,7 @@ def get_today_get_up_status(issue):
     return is_today
 
 
-def make_get_up_message(today_felling):
+def make_get_up_message(today_feeling):
     sentence = get_one_sentence()
     from_who = get_one_sentence_from()
     now = pendulum.now(TIMEZONE)
@@ -75,18 +75,18 @@ def make_get_up_message(today_felling):
     get_up_time = now.to_datetime_string()
     if is_get_up_early:
         # 如果未输入任何心情，则使用默认心情
-        if(len(today_felling) == 0):
+        if(len(today_feeling) == 0):
             early_felling = DEAFULT_EARLY_TODAY_FEELING
             body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=early_felling, sentence=sentence, from_who=from_who)
         else:
-            early_felling = today_felling
+            early_felling = today_feeling
             body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=early_felling, sentence=sentence, from_who=from_who)
     else:
-        if(len(today_felling) == 0):
+        if(len(today_feeling) == 0):
             late_felling = DEAFULT_EARLY_TODAY_FEELING
             body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=late_felling, sentence=sentence, from_who=from_who)
         else:
-            late_felling = today_felling
+            late_felling = today_feeling
             body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, early_felling=late_felling, sentence=sentence, from_who=from_who)
     return body, is_get_up_early
 
