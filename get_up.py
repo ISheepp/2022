@@ -97,9 +97,9 @@ def main(github_token, repo_name, weather_message, today_feeling):
     repo = u.get_repo(repo_name)
     issue = repo.get_issue(GET_UP_ISSUE_NUMBER)
     is_toady = get_today_get_up_status(issue)
-    if is_toady:
-        print("Today I have recorded the wake up time")
-        return
+    # if is_toady:
+    #     print("Today I have recorded the wake up time")
+    #     return
     early_message, is_get_up_early = make_get_up_message(today_feeling)
     body = early_message
     if weather_message:
