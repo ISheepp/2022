@@ -22,3 +22,21 @@ response header
 要在页面上预览的话必须要使用对应的文件格式，如
 + pdf    ---- `Content-Type: application/pdf`
 + 图片  ---- `Content-Type: image/png` 或者 `Content-Type: image/jpg`
+
+
+---
+
+## 文件和目录同名问题
+
+建议
+
+1. 一般目录都不能同名
+2. 当上传文件同名时，应该让用户选择是否替换还是同时保留，如果同时保留则将文件名后缀加标识符
+3. 不同目录下的文件名可以相同（目录也是类似）
+
+### AliyunDrive
+
+个人认为阿里云盘做的还是比较人性化 也比较好看
+
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/54968314/148484058-54bb59e2-f6c3-4f7f-9f91-f17cce353cf6.png">
+<img width="495" alt="image" src="https://user-images.githubusercontent.com/54968314/148484138-07fa37fc-e601-4481-8e18-9519c2812898.png">
