@@ -10,14 +10,16 @@ GET_UP_MESSAGE_TEMPLATE = (
     "今天的起床时间是--{get_up_time}.\r\n\r\n {today_feeling}\r\n\r\n >  {sentence} \r\n From: {from_who}"
 )
 SENTENCE_API = "https://v1.hitokoto.cn/?c=k"
-DEFAULT_SENTENCE = "赏花归去马如飞\r\n去马如飞酒力微\r\n酒力微醒时已暮\r\n醒时已暮赏花归\r\n"
+DEFAULT_SENTENCE = "HODL! HODL! HODL!"
 TIMEZONE = "Asia/Shanghai"
 
 # 早起默认心情
-DEAFULT_EARLY_TODAY_FEELING = "天纵英才，晨勃还在"
+DEAFULT_EARLY_TODAY_FEELING = "一个人知道自己为什么而活，就可以忍受任何一种生活。\r\n天纵英才，晨勃还在。"
 
 # 晚起默认心情
 DEAFULT_LATE_TODAY_FEELING = "睡懒觉！"
+
+DEFAULT_LATE_FROM = "ISheep🐏"
 
 # 晚起模板
 GET_UP_LATE_TEMPLATE = (
@@ -46,7 +48,7 @@ def get_one_sentence_from():
     try:
         r = requests.get(SENTENCE_API)
         if r.ok:
-            return r.json().get("from", "unknown") + "-----" + r.json().get("from_who", "unknown")
+            return r.json().get("from", "SHEEPFOLD") + "-----" + r.json().get("from_who", DEFAULT_LATE_FROM)
         return "unknown"
     except:
         print("get SENTENCE_API wrong")

@@ -137,6 +137,7 @@ def add_md_top(repo, md, me):
                 add_issue_info(issue, md)
 
 
+# 暂时不用友链
 def add_md_firends(repo, md, me):
     s = FRIENDS_TABLE_HEAD
     friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS))
