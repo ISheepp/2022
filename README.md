@@ -27,8 +27,5 @@ To record 2022 using issues and GitHub Actions
 ## web3
 - [WEB3.0](https://github.com/linziyang1106/2022/issues/6)--2021-12-31
 ## TODO
-TODO list from [TODO](https://github.com/linziyang1106/2022/issues/1)--3 jobs to do--0 jobs done
-- [ ] 优化Action
-- [ ] 看研报
-- [ ] 完成《区块链和交通》
+TODO list from [TODO](https://github.com/linziyang1106/2022/issues/1) all done
 
