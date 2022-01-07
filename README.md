@@ -33,5 +33,3 @@ TODO list from [2022_WANT_TO_BUY](https://github.com/linziyang1106/2022/issues/1
 - [ ] 鞋 想买回adapt bb 
 - [ ] adidas & nike NFT
 
-TODO list from [TODO](https://github.com/linziyang1106/2022/issues/1) all done
-
