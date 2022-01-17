@@ -2,8 +2,8 @@
 
 2022想更新的装备
 
-- [ ] 手机 目前：iPhoneX
 - [ ] 耳机 目前：Airpods
+- [ ] 手机 目前：iPhoneX
 - [ ] 鞋 想买回adapt bb 
 - [ ] adidas & nike NFT
 
