@@ -48,3 +48,28 @@ developing country & developed country
 我想过不再骑它，但最后选择买了一份人身保险，然后继续骑它上班。
 
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=29205322)
+
+---
+
+准备搬家
+今天第一天收拾东西，不得不说垃圾很多，扔了很多偏小的衣服裤子
+可能还在长
+扔了一堆学校的东西
+很难想象有一堆奖学金证书，笑了
+![1339ef99f697a459a1b79e5697ea12e](https://user-images.githubusercontent.com/54968314/149787699-e803ddf3-ed09-4aa7-b258-50ef92ede989.jpg)
+这就是厉害国特色教育吗
+我这种赌狗也能拿这种东西吗，做题家也算不上啊，只记得都是考试前一天看看书、背代码
+扔了扔了，留着就是耻辱柱
+![a09d23fb497021bbdebb59338f22791](https://user-images.githubusercontent.com/54968314/149789768-8cb53fb5-0432-4d38-973b-496cbf7273ab.jpg)
+找到了我的相机包
+总有一天
+我会重拾摄影
+就算我没有天赋
+我也会拿回曾经的玩具
+带上慢烤大师和小曦姐送我的帐篷
+躺在coupé顶上看星空
+用red gemini记录下这一刻
+
+---
+还有一堆东西要整理
+看来这次搬家东西是真的变多了
