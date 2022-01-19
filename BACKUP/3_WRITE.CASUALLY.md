@@ -73,3 +73,10 @@ developing country & developed country
 ---
 还有一堆东西要整理
 看来这次搬家东西是真的变多了
+
+---
+
+1. 欧洲禁止POW
+![image](https://user-images.githubusercontent.com/54968314/150129683-07f28f44-afc5-4703-bdd2-b59f50349369.png)
+2. 土耳其 里拉已经完了 
+  萨尔瓦多 可能成为第一个因为比特币而破产的国家
