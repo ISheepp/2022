@@ -67,6 +67,6 @@
 
 ---
 
-- [ ] 员工中心 员工excel导入
+- [x] ~~员工中心 员工excel导入~~ 暂时用hc的人员导入处理
 - [ ] kafka connect jms rabbitmq插件
 - [ ] 数据中台缺陷
