@@ -88,3 +88,10 @@ developing country & developed country
 300亿的话 确实还是房地产稳妥
 ![image](https://user-images.githubusercontent.com/54968314/150368217-f8c05f72-a22d-4506-85f6-93ae1ce551a9.png)
 我宣布 第二个可能会因为bitcoin而破产的国家出现了
+
+昂 还看到
+![image](https://user-images.githubusercontent.com/54968314/150368668-4f67f2d0-35dc-4bf2-b1bb-a673f3646e53.png)
+看到视频了 有点残忍
+> 一部分底层的人活得很累很压抑，通俗的说就是活够了，这个时候一点点刺激就很可能爆发。这不能说是反社会，遇事最好包容一些，退让不是懦弱
+
+简称生无可恋
