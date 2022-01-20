@@ -80,3 +80,11 @@ developing country & developed country
 ![image](https://user-images.githubusercontent.com/54968314/150129683-07f28f44-afc5-4703-bdd2-b59f50349369.png)
 2. 土耳其 里拉已经完了 
   萨尔瓦多 可能成为第一个因为比特币而破产的国家
+
+---
+
+科兴终究是忍不住了，开房地产公司了
+疫苗赚发了呀
+300亿的话 确实还是房地产稳妥
+![image](https://user-images.githubusercontent.com/54968314/150368217-f8c05f72-a22d-4506-85f6-93ae1ce551a9.png)
+我宣布 第二个可能会因为bitcoin而破产的国家出现了
