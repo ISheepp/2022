@@ -85,4 +85,5 @@
 ---
 
 - [ ] kafka connect rabbit 插件 使用中台方式接入
-- [ ] markdown预览
+- [ ] **markdown预览**
+- [ ] **文件不可下载**
