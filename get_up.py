@@ -36,14 +36,16 @@ def get_one_sentence():
     try:
         r = requests.get(SENTENCE_API)
         if r.ok:
-            return r.json().get("hitokoto", DEFAULT_SENTENCE)
+            sentence = r.json().get("hitokoto", DEFAULT_SENTENCE)
+            from_who = r.json().get("from", "SHEEPFOLD") + "-----" + r.json().get("from_who", DEFAULT_LATE_FROM)
+            return sentence + "|" + from_who
         return DEFAULT_SENTENCE
     except:
         print("get SENTENCE_API wrong")
         return DEFAULT_SENTENCE
 
 
-# 获得一言的出处
+# 获得一言的出处 弃用(同时调用两次api导致获取的句子和出处不一致)
 def get_one_sentence_from():
     try:
         r = requests.get(SENTENCE_API)
@@ -69,8 +71,11 @@ def get_today_get_up_status(issue):
 
 
 def make_get_up_message(today_feeling):
-    sentence = get_one_sentence()
-    from_who = get_one_sentence_from()
+    sentence_from = get_one_sentence().split('|')
+    # 分割调用一言api获取的句子和出处(|)
+    sentence = sentence_from[0]
+    from_who = sentence_from[-1]
+    # from_who = get_one_sentence_from()
     now = pendulum.now(TIMEZONE)
     # 4 - 8 means early for me
     is_get_up_early = 4 <= now.hour <= 8
