@@ -2,11 +2,11 @@
 To record 2022 using issues and GitHub Actions
 [RSS Feed](https://raw.githubusercontent.com/linziyang1106/2022/main/feed.xml)
 ## 最近更新
+- [COVID-19](https://github.com/linziyang1106/2022/issues/17)--2022-01-28
 - [海姆利克急救法](https://github.com/linziyang1106/2022/issues/16)--2022-01-14
 - [周记](https://github.com/linziyang1106/2022/issues/15)--2022-01-08
 - [2022_WANT_TO_BUY](https://github.com/linziyang1106/2022/issues/14)--2022-01-07
 - [GET_UP_EARLY](https://github.com/linziyang1106/2022/issues/12)--2022-01-02
-- [BOOK_MARK](https://github.com/linziyang1106/2022/issues/11)--2022-01-01
 ## bug
 - [WORK ISSUE](https://github.com/linziyang1106/2022/issues/2)--2021-12-31
 ## Epic
