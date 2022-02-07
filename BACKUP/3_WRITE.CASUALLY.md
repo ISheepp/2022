@@ -134,3 +134,8 @@ emmm一定是有很大的压力吧
 也别灰心，我们不可能什么也没有
 
 我现在属于极度贪婪
+
+---
+
+........
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/54968314/152735509-ef8fb643-b07a-48eb-b7a1-c31bf5cd1abc.png">
