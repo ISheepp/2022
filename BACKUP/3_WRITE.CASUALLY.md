@@ -139,3 +139,11 @@ emmm一定是有很大的压力吧
 
 ........
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/54968314/152735509-ef8fb643-b07a-48eb-b7a1-c31bf5cd1abc.png">
+
+
+---
+
+明天开工了
+把护身符摆好了
+看了老高的很多视频之后
+风水这个东西越来越信了
