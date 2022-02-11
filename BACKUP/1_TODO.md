@@ -124,3 +124,14 @@
 ---
 
 - [x] 柱状图查询优化（大数据量）
+
+---
+
+#### 测试markdown折叠内容
+<details>
+  <summary>点击展开!</summary>
+  
+  ## Heading
+- [ ] 1. 柱状图优化(使用es的histogram aggregation)
+- [ ] 2. 解决海宁项目算法中台启动问题
+</details>
