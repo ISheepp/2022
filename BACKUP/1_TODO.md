@@ -134,4 +134,6 @@
   ## Heading
 - [ ] 1. 柱状图优化(使用es的histogram aggregation)
 - [ ] 2. 解决海宁项目算法中台启动问题
+- [ ] 3. 链路日志数量
+- [ ] 4. 链路周期内数据量
 </details>
