@@ -137,3 +137,7 @@
 - [ ] 3. 链路日志数量
 - [x] 4. 链路周期内数据量
 </details>
+
+---
+
+- [ ] [Benthos](https://www.benthos.dev/)文档
