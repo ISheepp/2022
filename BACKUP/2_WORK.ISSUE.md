@@ -45,3 +45,8 @@ response header
 ---
 
 ## Spring循环依赖问题
+
+---
+
+[“一把梭：REST API 全用 POST ”](https://coolshell.cn/articles/22173.html)
+陈皓讲REST
