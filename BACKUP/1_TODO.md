@@ -140,8 +140,10 @@
 
 ---
 
-- [ ] [Benthos](https://www.benthos.dev/)文档
+- [x] [Benthos](https://www.benthos.dev/)文档
 
 ---
 
 - [ ] 算法容器erueka版本镜像
+- [ ] kafka作为输入源
+- [ ] 链路监控方案评审
