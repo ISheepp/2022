@@ -10,7 +10,6 @@ To record 2022 using issues and GitHub Actions
 ## bug
 - [WORK ISSUE](https://github.com/linziyang1106/2022/issues/2)--2021-12-31
 ## Epic
-- [《2021年终总结》](https://github.com/linziyang1106/2022/issues/10)--2021-12-31
 - [写完《区块链和交通》](https://github.com/linziyang1106/2022/issues/8)--2021-12-31
 ## express
 - [WRITE CASUALLY](https://github.com/linziyang1106/2022/issues/3)--2021-12-31
