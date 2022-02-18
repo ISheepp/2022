@@ -165,3 +165,4 @@
 ---
 
 - [ ] 搜索引擎收录域名
+- [ ] 了解es直方图的语义histogram aggregation
