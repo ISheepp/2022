@@ -166,3 +166,5 @@
 
 - [ ] 搜索引擎收录域名
 - [ ] 了解es直方图的语义histogram aggregation
+- [ ] 数据中台链路监控评审
+- [ ] 调研一下Gitlab page
