@@ -167,4 +167,20 @@
 - [ ] 搜索引擎收录域名
 - [ ] 了解es直方图的语义histogram aggregation
 - [ ] 数据中台链路监控评审
-- [ ] 调研一下Gitlab page
+- [x] 调研一下Gitlab page
+
+---
+
+尝试番茄钟
+
+今日工作
+- [ ] template
+- [ ] template
+
+临时急迫事项
+- [ ] template
+- [ ] template
+
+事项盘点
+- [ ] template
+- [ ] template
