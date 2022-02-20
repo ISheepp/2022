@@ -2,11 +2,11 @@
 To record 2022 using issues and GitHub Actions
 [RSS Feed](https://raw.githubusercontent.com/linziyang1106/2022/main/feed.xml)
 ## 最近更新
+- [ClearAi](https://github.com/linziyang1106/2022/issues/20)--2022-02-20
 - [产品文档](https://github.com/linziyang1106/2022/issues/19)--2022-02-15
 - [COVID-19](https://github.com/linziyang1106/2022/issues/17)--2022-01-28
 - [海姆利克急救法](https://github.com/linziyang1106/2022/issues/16)--2022-01-14
 - [周记](https://github.com/linziyang1106/2022/issues/15)--2022-01-08
-- [2022_WANT_TO_BUY](https://github.com/linziyang1106/2022/issues/14)--2022-01-07
 ## bug
 - [WORK ISSUE](https://github.com/linziyang1106/2022/issues/2)--2021-12-31
 ## Epic
@@ -27,6 +27,10 @@ To record 2022 using issues and GitHub Actions
 ## web3
 - [WEB3.0](https://github.com/linziyang1106/2022/issues/6)--2021-12-31
 ## TODO
+TODO list from [ClearAi](https://github.com/linziyang1106/2022/issues/20)--2 jobs to do--0 jobs done
+- [ ] Google Search域名收录
+- [ ] 注册twitter、Instagram、discord
+
 TODO list from [海姆利克急救法](https://github.com/linziyang1106/2022/issues/16)--1 jobs to do--0 jobs done
 - [ ] 学习海姆利克急救法
 
