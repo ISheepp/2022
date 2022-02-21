@@ -187,7 +187,7 @@
 - [ ] template
 
 事项盘点
-- [ ] 探索mockrocket和pika
+- [x] 探索mockrocket和pika
 - [ ] template
 
 ---
