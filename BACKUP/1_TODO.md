@@ -218,11 +218,11 @@
 ---
 
 今日工作
-- [ ] vuepress文档 markdown 2 pdf 插件
+- [x] vuepress文档 markdown 2 pdf 插件
 - [ ] 打完球之后的核心练习
 - [ ] store商店页面图片探索
 
 临时急迫事项
-- [ ] 打r6...
+- [x] 打r6...
 
 事项盘点
