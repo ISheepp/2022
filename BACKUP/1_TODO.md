@@ -231,11 +231,12 @@
 ---
 
 今日工作
-- [ ] 整理文档-kafka-connect 🍅🍅🍅🍅
+- [x] 整理文档-kafka-connect 🍅🍅🍅🍅
 - [ ] 数据链路监控方案预研  🍅🍅🍅🍅🍅🍅
-- [ ] 更新README，包括
+- [x] 更新README，包括
         > typora位置
         > 安装node
+- [ ] 优化数据源配置
 
 
 
