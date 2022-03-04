@@ -27,9 +27,7 @@ To record 2022 using issues and GitHub Actions
 ## web3
 - [WEB3.0](https://github.com/linziyang1106/2022/issues/6)--2021-12-31
 ## TODO
-TODO list from [ClearAi](https://github.com/linziyang1106/2022/issues/20)--2 jobs to do--0 jobs done
-- [ ] Google Search域名收录
-- [ ] 注册twitter、Instagram、discord
+TODO list from [ClearAi](https://github.com/linziyang1106/2022/issues/20) all done
 
 TODO list from [海姆利克急救法](https://github.com/linziyang1106/2022/issues/16)--1 jobs to do--0 jobs done
 - [ ] 学习海姆利克急救法

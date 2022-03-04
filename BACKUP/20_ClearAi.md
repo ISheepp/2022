@@ -1,4 +1,4 @@
 # [ClearAi](https://github.com/linziyang1106/2022/issues/20)
 
-- [ ] Google Search域名收录
-- [ ] 注册twitter、Instagram、discord
+- [x] Google Search域名收录
+- [x] 注册twitter、Instagram、discord
