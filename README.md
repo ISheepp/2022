@@ -11,7 +11,6 @@ To record 2022 using issues and GitHub Actions
 - [WORK ISSUE](https://github.com/linziyang1106/2022/issues/2)--2021-12-31
 ## Epic
 - [产品文档](https://github.com/linziyang1106/2022/issues/19)--2022-02-15
-- [写完《区块链和交通》](https://github.com/linziyang1106/2022/issues/8)--2021-12-31
 ## express
 - [WRITE CASUALLY](https://github.com/linziyang1106/2022/issues/3)--2021-12-31
 ## hodl
