@@ -386,3 +386,6 @@
 临时急迫事项
 
 事项盘点
+
+**为了使在线文档的导出更为优雅**
+- [ ] markdown转pdf latex模板 [少数派](https://sspai.com/post/47110)
