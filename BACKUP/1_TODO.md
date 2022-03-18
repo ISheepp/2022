@@ -374,3 +374,15 @@
 临时急迫事项
 
 事项盘点
+
+
+---
+
+今日工作
+- [ ] **早点睡**、**早点睡**、**早点睡**
+- [ ] upms 问题排查（1. `connection reset peer by peer`, 2. `Unknown column 'REQUESTRESOURCE'`）
+- [ ] 批量下载，zip包
+
+临时急迫事项
+
+事项盘点
