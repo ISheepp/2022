@@ -28,3 +28,8 @@ https://interview-science.org/
 
 从面试时的公司 9 问，谈求职者与公司的不对等关系
 https://v2ex.com/t/832770
+
+---
+
+你还有什么要问我的吗
+https://mp.weixin.qq.com/s/4BcZzbmm79xc6-jQrw3HNg
