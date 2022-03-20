@@ -20,3 +20,11 @@ MIRROR
 
 sspai文章推荐
 https://sspai.com/post/71138?utm_source=twitter&utm_medium=social
+
+---
+
+面试科学
+https://interview-science.org/
+
+从面试时的公司 9 问，谈求职者与公司的不对等关系
+https://v2ex.com/t/832770
