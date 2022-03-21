@@ -381,7 +381,20 @@
 今日工作
 - [ ] **早点睡**、**早点睡**、**早点睡**
 - [ ] upms 问题排查（1. `connection reset peer by peer`, 2. `Unknown column 'REQUESTRESOURCE'`）
-- [ ] 批量下载，zip包
+- [x] 批量下载，zip包
+
+临时急迫事项
+
+事项盘点
+
+**为了使在线文档的导出更为优雅**
+- [ ] markdown转pdf latex模板 [少数派](https://sspai.com/post/47110)
+
+---
+
+今日工作
+- [ ] **早点睡**、**早点睡**、**早点睡**
+- [ ] 设计数据中台docker镜像上传
 
 临时急迫事项
 
