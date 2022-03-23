@@ -27,3 +27,10 @@
 ![image](https://user-images.githubusercontent.com/54968314/158613361-1d84c95c-da70-45f3-bece-67156debb48a.png)
 
 今天的卖相还不错，空气炸锅是真好用啊，鸡腿去骨的结果还挺不错的
+
+
+---
+
+今天是黑暗料理...
+![9376a974232992d054b4259a0ca8865](https://user-images.githubusercontent.com/54968314/159711218-b92e9cba-2b6d-4b90-9ead-202957605a86.jpg)
+再也不想吃培根了
