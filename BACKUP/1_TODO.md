@@ -450,6 +450,8 @@
 ---
 
 - [ ] 文件预览太大 oom
+<img src="https://user-images.githubusercontent.com/54968314/160226887-9ca57fae-3aa7-449a-a6fd-cd351b540202.jpg" alt="image" width=600px>
+
 
 个人
 - [ ] 研究项目
