@@ -519,3 +519,6 @@
 
 事项盘点
 - [ ] keyword search
+
+`value.converter.schemas.enable=false`
+补充一下es sink的配置，不需要`schema`和`payload`格式
