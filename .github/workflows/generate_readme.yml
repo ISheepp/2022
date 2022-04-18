@@ -52,8 +52,7 @@ jobs:
       # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
       - name: Run safe dir
         run: |
-          git config --global --add safe.directory /github/workspace
-      - name: Push README
+          git config --global --add safe.directory /__w/2022/2022
         uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{ secrets.G_T }}
