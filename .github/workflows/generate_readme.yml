@@ -21,6 +21,10 @@ jobs:
     name: Generate README
     runs-on: ubuntu-latest
     steps:
+    # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set up Python
@@ -49,10 +53,6 @@ jobs:
         run: |
           source venv/bin/activate
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
-      # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
-      - name: Run safe dir
-        run: |
-          git config --global --add safe.directory /github/workspace
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
