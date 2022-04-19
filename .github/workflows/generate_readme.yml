@@ -21,10 +21,6 @@ jobs:
     name: Generate README
     runs-on: ubuntu-latest
     steps:
-    # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
-      - name: Run safe dir
-        run: |
-          git config --global --add safe.directory /github/workspace
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set up Python
@@ -53,12 +49,14 @@ jobs:
         run: |
           source venv/bin/activate
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+       # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
       - name: Push README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Refresh README AND BACK UP"
-          files: README.md feed.xml BACKUP/
-          rebase: "true"
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+        run: |
+          git config --local user.name ISheep
+          git config --local user.email lzyoutlook@gmail.com
+          git add .
+          git commit -m "generated readme" || echo "no need to commit "
+          git push || echo "no file change"
