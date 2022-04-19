@@ -588,3 +588,24 @@ crypto
 
 - [ ] 员工中心需求整理
 - [ ] 数据接入指标计算
+
+---
+
+- [ ] redissonclient研究
+- [x] 滨江示范区支持
+- [ ] 构建我自己的excalidraw
+
+---
+
+- [ ] 质量包计算模板
+- [ ] 同事书籍学习分享
+   1. 通用源码指导
+   2. mysql是怎样运行的
+   3. [手撸spring](https://bugstack.cn/md/spring/develop-spring/2021-05-16-%E7%AC%AC1%E7%AB%A0%EF%BC%9A%E5%BC%80%E7%AF%87%E4%BB%8B%E7%BB%8D%EF%BC%8C%E6%89%8B%E5%86%99Spring%E8%83%BD%E7%BB%99%E4%BD%A0%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%EF%BC%9F.html)
+   4. DDD
+   5. fork Join
+
+---
+
+- [x] 修复github action
+- [ ] 计算异常消失平均值
