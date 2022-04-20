@@ -609,3 +609,8 @@ crypto
 
 - [x] 修复github action
 - [ ] 计算异常消失平均值
+
+---
+
+- [ ] 测试质量包
+- [ ] 看xxl-job
