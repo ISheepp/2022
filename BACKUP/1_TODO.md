@@ -631,7 +631,15 @@ crypto
 
 ---
 
-- [ ] 延迟查询接口修改
-- [ ] 打扫房间
-- [ ] twitter推广 hashtag
-- [ ] js ，module
+- [x] 延迟查询接口修改
+- [x] 打扫房间
+- [x] twitter推广 hashtag
+- [x] js ，module
+
+---
+
+- [ ] 香菜
+- [ ] 醋
+- [ ] 香油
+- [ ] 包菜
+- [ ] 五花肉
