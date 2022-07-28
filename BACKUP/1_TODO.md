@@ -705,3 +705,13 @@ crypto
 ---
 
 - [ ] Sqlite 学习
+
+---
+
+- [ ] notion
+- [ ] typora
+- [ ] node
+- [ ] vscode
+- [ ] termius
+- [ ] wps
+- [ ] python3
