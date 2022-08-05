@@ -736,3 +736,11 @@ crypto
 - [ ] 整理笔记
 - [ ] WTFSOL学习到30.trycatch
 - [ ] 完成zombie一节
+
+---
+
+- [ ] 改datahub、jdbc插件
+- [ ] 链路日志交接
+- [ ] es数据查询文档
+- [ ] es查询延时
+- [ ] 数据质量
