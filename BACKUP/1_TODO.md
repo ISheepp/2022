@@ -754,5 +754,9 @@ crypto
 
 ---
 
-- [ ] OSS 部署静态页面
+- [x] OSS 部署静态页面
 - [ ] zombie编写
+
+---
+
+- [ ] 如何利用nounce覆盖 transaction
