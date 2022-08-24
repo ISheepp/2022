@@ -759,4 +759,4 @@ crypto
 
 ---
 
-- [ ] 如何利用nounce覆盖 transaction
+- [x] 如何利用nounce覆盖 transaction
