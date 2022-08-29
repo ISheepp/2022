@@ -1,4 +1,4 @@
-# [TODO](https://github.com/linziyang1106/2022/issues/1)
+# [TODO](https://github.com/ISheepp/2022/issues/1)
 
 此issue记录每日todo
 
@@ -763,5 +763,9 @@ crypto
 
 ---
 
-- [ ] alchemy roadmap
-- [ ] week1
+- [x] alchemy roadmap
+- [x] week1
+
+---
+
+- [ ] react和next
