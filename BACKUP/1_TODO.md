@@ -768,4 +768,5 @@ crypto
 
 ---
 
-- [ ] react和next
+- [x] react和next
+- [ ] 完成 buy me a coffee
