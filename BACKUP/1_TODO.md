@@ -770,3 +770,8 @@ crypto
 
 - [x] react和next
 - [ ] 完成 buy me a coffee
+
+---
+
+- [ ] nextjs example
+- [ ] contract test
