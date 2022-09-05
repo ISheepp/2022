@@ -773,5 +773,5 @@ crypto
 
 ---
 
-- [ ] nextjs example
-- [ ] contract test
+- [x] nextjs example
+- [x] contract test
