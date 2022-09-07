@@ -780,3 +780,8 @@ crypto
 
 - [ ] 算法容器 h2 改造
 - [ ] WTF 复习 & road to web3 week5
+
+---
+
+- [ ] 公司部署滨江现场环境
+- [ ] stake app
