@@ -804,7 +804,8 @@ crypto
 
 ---
 
-- [ ] 测试第三包引入是否报错（classloader）
+- [x] 测试第三包引入是否报错（classloader）
 - [ ] 前端资源
+- [ ] 模块级别日志level、算法包保存路径  -> h2
 - [ ] 日志过滤归集功能
 - [ ] module delete failed
