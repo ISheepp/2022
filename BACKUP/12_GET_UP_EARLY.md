@@ -1,4 +1,4 @@
-# [GET_UP_EARLY](https://github.com/linziyang1106/2022/issues/12)
+# [GET_UP_EARLY](https://github.com/ISheepp/2022/issues/12)
 
 起床记录
 
@@ -573,6 +573,16 @@
 
  一个人知道自己为什么而活，就可以忍受任何一种生活。
 天纵英才，晨勃还在。
+
+ >  HODL! HODL! HODL! 
+ From: HODL! HODL! HODL!
+
+---
+
+现在的天气是: run
+今天的起床时间是--2023-01-01 19:38:41.
+
+ 睡懒觉！
 
  >  HODL! HODL! HODL! 
  From: HODL! HODL! HODL!
